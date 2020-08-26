@@ -1,0 +1,4 @@
+com\bjsxt\ego\portal\controller\PageController.class
+com\bjsxt\ego\portal\service\impl\PortalItemCatServiceImpl.class
+com\bjsxt\ego\portal\controller\PortalItemCatController.class
+com\bjsxt\ego\portal\service\PortalItemCatService.class

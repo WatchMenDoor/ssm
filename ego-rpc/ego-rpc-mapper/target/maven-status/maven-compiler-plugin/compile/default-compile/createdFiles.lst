@@ -1,0 +1,11 @@
+com\bjsxt\ego\rpc\mapper\TbUserMapper.class
+com\bjsxt\ego\rpc\mapper\TbContentCategoryMapper.class
+com\bjsxt\ego\rpc\mapper\TbItemCatMapper.class
+com\bjsxt\ego\rpc\mapper\TbItemParamMapper.class
+com\bjsxt\ego\rpc\mapper\TbItemDescMapper.class
+com\bjsxt\ego\rpc\mapper\TbItemParamItemMapper.class
+com\bjsxt\ego\rpc\mapper\TbItemMapper.class
+com\bjsxt\ego\rpc\mapper\TbContentMapper.class
+com\bjsxt\ego\rpc\mapper\TbOrderMapper.class
+com\bjsxt\ego\rpc\mapper\TbOrderItemMapper.class
+com\bjsxt\ego\rpc\mapper\TbOrderShippingMapper.class

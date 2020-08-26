@@ -1,0 +1,7 @@
+com\bjsxt\ego\rpc\service\impl\ItemCatServiceImpl.class
+com\bjsxt\ego\rpc\service\impl\TbContentCatogeryServiceImpl.class
+com\bjsxt\ego\rpc\service\impl\ParamItemServiceImpl.class
+com\bjsxt\ego\rpc\service\impl\ItemServiceImpl.class
+com\bjsxt\ego\rpc\service\impl\ItemDescServiceImpl.class
+com\bjsxt\ego\rpc\service\impl\ItemParamServiceImpl.class
+com\bjsxt\ego\rpc\service\impl\TbContentServiceImpl.class

@@ -1,0 +1,9 @@
+com\bjsxt\ego\beans\CatNode.class
+com\bjsxt\ego\beans\FtpUtils.class
+com\bjsxt\ego\beans\PictureResult.class
+com\bjsxt\ego\beans\CatResult.class
+com\bjsxt\ego\beans\IDUtils.class
+com\bjsxt\ego\beans\TreeNode.class
+com\bjsxt\ego\beans\EgoResult.class
+com\bjsxt\ego\beans\PageResults.class
+com\bjsxt\ego\beans\JsonUtils.class
